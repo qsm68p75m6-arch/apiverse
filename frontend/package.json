@@ -1,0 +1,27 @@
+{
+  "name": "apiverse-frontend",
+  "version": "1.0.0",
+  "description": "APIVerse Frontend - API\u805a\u5408\u5e73\u53f0\u524d\u7aef",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.6.0",
+    "react-icons": "^4.12.0",
+    "react-syntax-highlighter": "^15.5.0",
+    "recharts": "^2.10.0",
+    "framer-motion": "^10.16.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
+  }
+}
